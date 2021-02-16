@@ -11,7 +11,7 @@ import java.util.logging.Logger;
 
 public class ConnectionClass {
 
-	private static final String url ="jdbc:mysql://localhost:3307/studentedition";
+	private static final String url ="jdbc:mysql://localhost:3306/gestion_des_etudiants";
 	private static final String user ="root";
 	private static final String password ="";
 	public static Connection getConnection()throws SQLException {

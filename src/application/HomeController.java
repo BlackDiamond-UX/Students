@@ -43,7 +43,7 @@ public class HomeController implements Initializable {
         Alert alert = new Alert(Alert.AlertType.INFORMATION);
         alert.setTitle("INFORMATION");
         alert.setHeaderText(null);
-        alert.setContentText("THIS APPLICATION CREATED BY SOUFIANE EL KADIRI");
+        alert.setContentText("THIS APPLICATION CREATED BY ROUIHA AYOUB AND SOUFIANE EL KADIRI");
         alert.showAndWait();
     }
     @Override
